@@ -37,7 +37,7 @@ IF you want to shutdown somone instagram account remotely. This tool will help y
 pkg install -y git
 pkg install python
 apt install git curl php wget -y 
-git clone https://github.com/cyberkallan/IG-blaster
+git clone https://github.com/beyondlon/igblast
 cd IG-blaster
 python3 -m pip install requests
 
